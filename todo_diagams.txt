@@ -20,8 +20,12 @@ TODO:
 14. Assign Student to class
 15. Assign Teacher to course
 16. Assign Students to course
+17. Proceed order
+
 
 - Greed
 1. Create branch
 2. Create bishop
+3. Register branch payment account
+4. Manage branch payments.
 
