@@ -1,0 +1,27 @@
+TODO:
+- Gluttony
+1. Create church
+2. Create cardinal
+
+- Wrath
+1. Create disciple 
+2. Create godfather
+3. Create priest
+4. Create Major
+5. Create Subject
+6. Create Course
+7. Create Order
+8. Create Discount
+9. Create Price Item
+10. Create Group
+11. Assign Students to Group
+12. Assign Teachers to Group
+13. Assign Teacher to class
+14. Assign Student to class
+15. Assign Teacher to course
+16. Assign Students to course
+
+- Greed
+1. Create branch
+2. Create bishop
+
