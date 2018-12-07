@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e12b7772-5681-46b6-b535-0d40648e3c41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/database/120701-change_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb.bak" afterDir="false" />
     </list>
@@ -18,61 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Branch_Tuition_List_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Branch_Tuition_List_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Group_List_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Group_List_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Dashboard_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Dashboard_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="120601-change_log.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/120601-change_log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="120701-change_log.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/120701-change_log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student_Details_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Student_Details_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Student_Comment_Log_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Student_Comment_Log_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Schedule_View.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Schedule_View.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Teacher_CheckInOut_Log_View .png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wireframes/Teacher_CheckInOut_Log_View .png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,16 +114,15 @@
       <option name="presentableId" value="Default" />
       <updated>1543868305551</updated>
       <workItem from="1543868307718" duration="1004000" />
-      <workItem from="1543873729926" duration="3799000" />
+      <workItem from="1543873729926" duration="4248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4803000" />
+    <option name="totallyTimeSpent" value="5252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,15 +150,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Wireframes/Branch_Tuition_List_View.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wireframes/Group_List_View.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wireframes/Teacher_CheckInOut_Log_View .png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wireframes/Student_Details_View.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -225,8 +159,12 @@
     <entry file="file://$PROJECT_DIR$/Wireframes/Schedule_View.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wireframes/Dashboard_View.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/database/120701-change_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/120601-change_log.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -235,12 +173,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/120701-change_log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Wireframes/Teacher_CheckInOut_Log_View .png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wireframes/Create_Teacher_View.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wireframes/Dashboard_View.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wireframes/Group_List_View.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wireframes/Branch_Tuition_List_View.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
