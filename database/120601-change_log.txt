@@ -1,0 +1,7 @@
+1. The use of Square Payments.
+   1.1 Add payment resource in Branch.
+   1.2 Add Payment info in Godfather.
+2. The feature of Preist Checking/Out
+3. The feature of Disciple Comment.
+4. The feature of Order Note.
+5. The feature of Current Branch Disciple Grade.
