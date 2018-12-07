@@ -1,0 +1,3 @@
+1. Updated all Unique Primary Key for Primary Tables
+2. Hided all Secondary Tables.
+3. Added database support for Split Payment Feature(In Each Payment, Means Every Tuition can be split as several parts)

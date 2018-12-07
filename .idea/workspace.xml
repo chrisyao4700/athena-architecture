@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e12b7772-5681-46b6-b535-0d40648e3c41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/database/120601-change_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/120701-change_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb.bak" afterDir="false" />
@@ -34,11 +34,20 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="120601-change_log.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="120601-change_log.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/120601-change_log.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="120701-change_log.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/120701-change_log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -72,6 +81,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/database/120601-change_log.txt" />
+        <option value="$PROJECT_DIR$/database/120701-change_log.txt" />
       </list>
     </option>
   </component>
@@ -108,6 +118,11 @@
               <item name="Athena" type="b2602c69:ProjectViewProjectNode" />
               <item name="Athena" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Athena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Athena" type="462c0819:PsiDirectoryNode" />
+              <item name="Wireframes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543868305551</updated>
       <workItem from="1543868307718" duration="1004000" />
-      <workItem from="1543873729926" duration="3089000" />
+      <workItem from="1543873729926" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4093000" />
+    <option name="totallyTimeSpent" value="4803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -217,6 +232,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/120701-change_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
