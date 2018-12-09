@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e12b7772-5681-46b6-b535-0d40648e3c41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/database/120702-change-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/an_core.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/database/an_core.mwb.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflow/finished/an_create_student.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/workflow/finished/an_create_student.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,13 +18,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="120702-change-log.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="120702-change-log.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/120702-change-log.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="120702.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/120702.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="120701-change_log.txt" pinned="false" current-in-tab="false">
@@ -64,8 +68,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="875" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1298" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -88,6 +93,17 @@
               <item name="Athena" type="b2602c69:ProjectViewProjectNode" />
               <item name="Athena" type="462c0819:PsiDirectoryNode" />
               <item name="Wireframes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Athena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Athena" type="462c0819:PsiDirectoryNode" />
+              <item name="workflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Athena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Athena" type="462c0819:PsiDirectoryNode" />
+              <item name="workflow" type="462c0819:PsiDirectoryNode" />
+              <item name="finished" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,16 +151,15 @@
       <option name="presentableId" value="Default" />
       <updated>1543868305551</updated>
       <workItem from="1543868307718" duration="1004000" />
-      <workItem from="1543873729926" duration="5188000" />
+      <workItem from="1543873729926" duration="6304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6192000" />
+    <option name="totallyTimeSpent" value="7308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -219,6 +234,9 @@
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/120702.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
