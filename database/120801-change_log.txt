@@ -1,0 +1,2 @@
+1. Fix Design Bugs
+2. Add Major Selection database support.
