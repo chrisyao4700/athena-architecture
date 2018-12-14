@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e12b7772-5681-46b6-b535-0d40648e3c41" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/an_core.mwb" afterPath="$PROJECT_DIR$/database/an_core.mwb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/an_core.mwb.bak" afterPath="$PROJECT_DIR$/database/an_core.mwb.bak" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -163,7 +161,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7950000" />
+    <option name="totallyTimeSpent" value="8290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
